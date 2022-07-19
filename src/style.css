@@ -251,6 +251,7 @@ input, textarea {
     background-color: black;
     grid-column: 1/4;
     display: flex;
+    font-size: 0.5rem;
     justify-content: center;
     align-items: center;
     color: white;
